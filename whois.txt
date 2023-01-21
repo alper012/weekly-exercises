@@ -1,0 +1,79 @@
+Domain:google.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-09-15
+Expires On:2028-09-13
+Updated On:2019-09-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+--------------------------------------------------------------------
+Domain:amazon.com
+Registrar:MarkMonitor Inc.
+Registered On:1994-11-01
+Expires On:2024-10-30
+Updated On:2019-05-07
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.p31.dynect.net
+ns2.p31.dynect.net
+ns3.p31.dynect.net
+ns4.p31.dynect.net
+pdns1.ultradns.net
+pdns6.ultradns.co.uk
+-----------------------------------------------------------------------
+Domain:netflix.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-11-11
+Expires On:2023-11-10
+Updated On:2021-10-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns-1372.awsdns-43.org
+ns-1984.awsdns-56.co.uk
+ns-659.awsdns-18.net
+ns-81.awsdns-10.com
+------------------------------------------------------------------------
+omain:disney.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:1990-03-21
+Expires On:2023-03-22
+Updated On:2021-01-21
+Status:clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.twdcns.com
+ns2.twdcns.com
+ns3.twdcns.info
+ns4.twdcns.info
+ns5.twdcns.co.uk
+ns6.twdcns.co.uk
+-----------------------------------------------------------------------
+Domain:apple.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:1987-02-19
+Expires On:2023-02-20
+Updated On:2022-02-16
+Status:clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.apple.com
+b.ns.apple.com
+c.ns.apple.com
+d.ns.apple.com

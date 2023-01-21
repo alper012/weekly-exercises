@@ -1,0 +1,50 @@
+*** System restart required ***
+********************************************************************************
+
+Welcome to DigitalOcean's 1-Click LAMP Droplet.
+To keep this Droplet secure, the UFW firewall is enabled.
+All ports are BLOCKED except 22 (SSH), 80 (HTTP), and 443 (HTTPS).
+
+In a web browser, you can view:
+ * The LAMP 1-Click Quickstart guide: https://do.co/3gY97ha#start
+ * Your LAMP website: http://134.122.36.42
+
+On the server:
+ * The default web root is located at /var/www/html
+ * If you're using the embedded database, the MySQL root password
+   is saved in /root/.digitalocean_password. If you've opted in to
+   using a DBaaS instance with DigitalOcean, you will find your
+   credentials written to /root/.digitalocean_dbaas_credentials
+   and you will have access to a DATABASE_URL environment variable
+   holding your database connection string.
+ * Certbot is preinstalled. Run it to configure HTTPS. See
+   https://do.co/3gY97ha#enable-https for more detail.
+
+For help and more information, visit https://do.co/3gY97ha
+
+********************************************************************************
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Fri Jan 20 23:46:40 2023 from 198.96.84.225
+root@comp3134-Winter2023:~# apt-get update
+Hit:1 http://mirrors.digitalocean.com/ubuntu focal InRelease
+Hit:2 https://repos-droplet.digitalocean.com/apt/droplet-agent main InRelease
+Get:3 http://mirrors.digitalocean.com/ubuntu focal-updates InRelease [114 kB]
+Hit:4 http://ppa.launchpad.net/ondrej/php/ubuntu focal InRelease
+Get:5 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Get:6 http://mirrors.digitalocean.com/ubuntu focal-backports InRelease [108 kB]
+Get:7 http://mirrors.digitalocean.com/ubuntu focal-updates/main amd64 Packages [2335 kB]
+Get:8 http://mirrors.digitalocean.com/ubuntu focal-updates/restricted amd64 Packages [1565 kB]
+Get:9 http://mirrors.digitalocean.com/ubuntu focal-updates/universe amd64 Packages [1016 kB]
+Fetched 5252 kB in 2s (2223 kB/s)
+Reading package lists... Done
+root@comp3134-Winter2023:~# apt-get install apache2-utils
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+apache2-utils is already the newest version (2.4.41-4ubuntu3.12).
+0 upgraded, 0 newly installed, 0 to remove and 26 not upgraded.
+root@comp3134-Winter2023:~# ping{microsoft}
+ping{microsoft}: command not found
+root@comp3134-Winter2023:~# ping microsoft.com
+PING microsoft.com (20.103.85.33) 56(84) bytes of data.
+ping microsoft.com -w 20
