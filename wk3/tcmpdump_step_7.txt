@@ -1,0 +1,136 @@
+23:45:17.710848 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 23, win 509, options [nop,nop,TS val 179547303 ecr 1268980589], length 0
+23:45:17.720588 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 179547312 ecr 1268980589], length 41
+23:45:17.722042 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 42, win 502, options [nop,nop,TS val 1268980601 ecr 179547312], length 0
+23:45:17.722067 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 42:1098, ack 23, win 509, options [nop,nop,TS val 179547314 ecr 1268980601], length 1056
+23:45:17.722145 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 23:999, ack 42, win 502, options [nop,nop,TS val 1268980601 ecr 179547312], length 976
+23:45:17.722166 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 999, win 502, options [nop,nop,TS val 179547314 ecr 1268980601], length 0
+23:45:17.723756 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 999:1047, ack 1098, win 501, options [nop,nop,TS val 1268980602 ecr 179547314], length 48
+23:45:17.723783 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 1047, win 502, options [nop,nop,TS val 179547316 ecr 1268980602], length 0
+23:45:17.733813 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1098:1534, ack 1047, win 502, options [nop,nop,TS val 179547326 ecr 1268980602], length 436
+23:45:17.735580 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 1047:1063, ack 1534, win 501, options [nop,nop,TS val 1268980614 ecr 179547326], length 16
+23:45:17.735638 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 1063, win 502, options [nop,nop,TS val 179547327 ecr 1268980614], length 0
+23:45:17.737009 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 1063:1115, ack 1534, win 501, options [nop,nop,TS val 1268980616 ecr 179547327], length 52
+23:45:17.737035 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 1115, win 502, options [nop,nop,TS val 179547329 ecr 1268980616], length 0
+23:45:17.737115 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1534:1586, ack 1115, win 502, options [nop,nop,TS val 179547329 ecr 1268980616], length 52
+23:45:17.738628 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 1115:1199, ack 1586, win 501, options [nop,nop,TS val 1268980617 ecr 179547329], length 84
+23:45:17.738659 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [.], ack 1199, win 502, options [nop,nop,TS val 179547330 ecr 1268980617], length 0
+23:45:20.692520 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179550284 ecr 1268980617], length 52
+23:45:20.693965 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [P.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268983573 ecr 179550284], length 52
+23:45:20.693966 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [F.], seq 1251, ack 1638, win 501, options [nop,nop,TS val 1268983573 ecr 179550284], length 0
+23:45:20.694021 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:20.694043 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 60
+23:45:20.709409 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [F.], seq 1251, ack 1638, win 501, options [nop,nop,TS val 1268983588 ecr 179550284], length 0
+23:45:20.709744 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 60
+23:45:20.900530 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179550492 ecr 1268980617], length 52
+23:45:20.902013 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268983781 ecr 179550492,nop,nop,sack 1 {1586:1638}], length 0
+23:45:20.902059 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:20.917673 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268983796 ecr 179550492], length 52
+23:45:20.917743 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:21.108532 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179550700 ecr 1268980617], length 52
+23:45:21.109944 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268983989 ecr 179550700,nop,nop,sack 1 {1586:1638}], length 0
+23:45:21.109984 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:21.333561 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268984212 ecr 179550700], length 52
+23:45:21.548594 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179551140 ecr 1268980617], length 52
+23:45:21.550046 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268984429 ecr 179551140,nop,nop,sack 1 {1586:1638}], length 0
+23:45:21.992737 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [S], seq 84386922, win 29200, options [mss 1460,sackOK,TS val 4080239654 ecr 0,nop,wscale 7], length 0
+23:45:21.992821 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [S.], seq 2593987534, ack 84386923, win 65160, options [mss 1460,sackOK,TS val 4225227598 ecr 4080239654,nop,wscale 7], length 0
+23:45:22.105784 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 4080239774 ecr 4225227598], length 0
+23:45:22.110043 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 1:23, ack 1, win 229, options [nop,nop,TS val 4080239775 ecr 4225227598], length 22
+23:45:22.110085 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 23, win 509, options [nop,nop,TS val 4225227715 ecr 4080239775], length 0
+23:45:22.115544 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 4225227720 ecr 4080239775], length 41
+23:45:22.165412 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268985044 ecr 179551140], length 52
+23:45:22.165572 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:22.236985 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 4080239896 ecr 4225227720], length 0
+23:45:22.237042 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [P.], seq 42:1098, ack 23, win 509, options [nop,nop,TS val 4225227842 ecr 4080239896], length 1056
+23:45:22.241332 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 23:999, ack 42, win 229, options [nop,nop,TS val 4080239904 ecr 4225227720], length 976
+23:45:22.241370 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 999, win 502, options [nop,nop,TS val 4225227846 ecr 4080239904], length 0
+23:45:22.360630 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 999:1047, ack 1098, win 245, options [nop,nop,TS val 4080240022 ecr 4225227842], length 48
+23:45:22.360708 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 1047, win 502, options [nop,nop,TS val 4225227965 ecr 4080240022], length 0
+23:45:22.371279 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [P.], seq 1098:1534, ack 1047, win 502, options [nop,nop,TS val 4225227976 ecr 4080240022], length 436
+23:45:22.380559 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179551972 ecr 1268980617], length 52
+23:45:22.382020 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268985261 ecr 179551972,nop,nop,sack 1 {1586:1638}], length 0
+23:45:22.492140 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 1047:1063, ack 1534, win 262, options [nop,nop,TS val 4080240156 ecr 4225227976], length 16
+23:45:22.492221 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 1063, win 502, options [nop,nop,TS val 4225228097 ecr 4080240156], length 0
+23:45:22.607057 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 1063:1115, ack 1534, win 262, options [nop,nop,TS val 4080240273 ecr 4225228097], length 52
+23:45:22.607112 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 1115, win 502, options [nop,nop,TS val 4225228212 ecr 4080240273], length 0
+23:45:22.607256 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [P.], seq 1534:1586, ack 1115, win 502, options [nop,nop,TS val 4225228212 ecr 4080240273], length 52
+23:45:22.726775 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 1115:1199, ack 1586, win 262, options [nop,nop,TS val 4080240388 ecr 4225228212], length 84
+23:45:22.768528 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 1199, win 502, options [nop,nop,TS val 4225228373 ecr 4080240388], length 0
+23:45:23.829385 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268986708 ecr 179551972], length 52
+23:45:23.829509 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:24.044551 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179553636 ecr 1268980617], length 52
+23:45:24.045928 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268986925 ecr 179553636,nop,nop,sack 1 {1586:1638}], length 0
+23:45:24.045964 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:25.680624 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 4225231285 ecr 4080240388], length 52
+23:45:25.804784 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [P.], seq 1199:1251, ack 1638, win 262, options [nop,nop,TS val 4080243463 ecr 4225231285], length 52
+23:45:25.804785 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [F.], seq 1251, ack 1638, win 262, options [nop,nop,TS val 4080243463 ecr 4225231285], length 0
+23:45:25.804850 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [.], ack 1251, win 502, options [nop,nop,TS val 4225231410 ecr 4080243463], length 0
+23:45:25.806316 IP comp3134-Winter2023.ssh > ip5b4204a3.dynamic.kabel-deutschland.de.60652: Flags [F.], seq 1638, ack 1252, win 502, options [nop,nop,TS val 4225231411 ecr 4080243463], length 0
+23:45:25.922097 IP ip5b4204a3.dynamic.kabel-deutschland.de.60652 > comp3134-Winter2023.ssh: Flags [.], ack 1639, win 262, options [nop,nop,TS val 4080243587 ecr 4225231411], length 0
+23:45:27.353372 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268990232 ecr 179553636], length 52
+23:45:27.353541 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:27.532533 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179557124 ecr 1268980617], length 52
+23:45:27.533969 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268990413 ecr 179557124,nop,nop,sack 1 {1586:1638}], length 0
+23:45:27.534007 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:34.005234 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1268996884 ecr 179557124], length 52
+23:45:34.005305 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:34.188545 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179563780 ecr 1268980617], length 52
+23:45:34.190012 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1268997069 ecr 179563780,nop,nop,sack 1 {1586:1638}], length 0
+23:45:34.190057 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:37.246126 IP 120.48.14.17.57332 > comp3134-Winter2023.2376: Flags [S], seq 3508311399, win 1024, length 0
+23:45:38.954504 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [S], seq 2170287744, win 64240, options [mss 1460,sackOK,TS val 2847155330 ecr 0,nop,wscale 7], length 0
+23:45:38.954601 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [S.], seq 2652238688, ack 2170287745, win 65160, options [mss 1460,sackOK,TS val 972723350 ecr 2847155330,nop,wscale 7], length 0
+23:45:39.042339 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1, win 502, options [nop,nop,TS val 2847155418 ecr 972723350], length 0
+23:45:39.042340 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 1:23, ack 1, win 502, options [nop,nop,TS val 2847155418 ecr 972723350], length 22
+23:45:39.042457 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 23, win 509, options [nop,nop,TS val 972723438 ecr 2847155418], length 0
+23:45:39.052853 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 972723449 ecr 2847155418], length 41
+23:45:39.151344 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 42, win 502, options [nop,nop,TS val 2847155516 ecr 972723449], length 0
+23:45:39.151344 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 23:999, ack 42, win 502, options [nop,nop,TS val 2847155516 ecr 972723449], length 976
+23:45:39.151449 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 42:1098, ack 23, win 509, options [nop,nop,TS val 972723547 ecr 2847155516], length 1056
+23:45:39.151516 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 999, win 502, options [nop,nop,TS val 972723547 ecr 2847155516], length 0
+23:45:39.468518 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 42:1098, ack 999, win 502, options [nop,nop,TS val 972723864 ecr 2847155516], length 1056
+23:45:39.539445 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 999:1047, ack 1098, win 501, options [nop,nop,TS val 2847155915 ecr 972723547], length 48
+23:45:39.539513 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 1047, win 502, options [nop,nop,TS val 972723935 ecr 2847155915], length 0
+23:45:39.549399 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1098:1534, ack 1047, win 502, options [nop,nop,TS val 972723945 ecr 2847155915], length 436
+23:45:39.555640 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1098, win 501, options [nop,nop,TS val 2847155931 ecr 972723864,nop,nop,sack 1 {42:1098}], length 0
+23:45:39.630848 IP 185.156.73.57.43528 > comp3134-Winter2023.44248: Flags [S], seq 3715254784, win 1024, length 0
+23:45:39.636387 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1534, win 501, options [nop,nop,TS val 2847156012 ecr 972723945], length 0
+23:45:39.636856 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 1047:1063, ack 1534, win 501, options [nop,nop,TS val 2847156013 ecr 972723945], length 16
+23:45:39.636881 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 1063, win 502, options [nop,nop,TS val 972724033 ecr 2847156013], length 0
+23:45:39.724034 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 1063:1115, ack 1534, win 501, options [nop,nop,TS val 2847156100 ecr 972724033], length 52
+23:45:39.724118 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 1115, win 502, options [nop,nop,TS val 972724120 ecr 2847156100], length 0
+23:45:39.724357 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1534:1586, ack 1115, win 502, options [nop,nop,TS val 972724120 ecr 2847156100], length 52
+23:45:39.811457 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 1115:1199, ack 1586, win 501, options [nop,nop,TS val 2847156187 ecr 972724120], length 84
+23:45:39.811543 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [.], ack 1199, win 502, options [nop,nop,TS val 972724207 ecr 2847156187], length 0
+23:45:42.765477 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 972727161 ecr 2847156187], length 52
+23:45:42.852830 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [P.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 2847159228 ecr 972727161], length 52
+23:45:42.852831 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [F.], seq 1251, ack 1638, win 501, options [nop,nop,TS val 2847159228 ecr 972727161], length 0
+23:45:42.852897 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:42.852921 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 60
+23:45:43.043356 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [F.], seq 1251, ack 1638, win 501, options [nop,nop,TS val 2847159419 ecr 972727161], length 0
+23:45:43.043415 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 60
+23:45:43.212525 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 972727608 ecr 2847156187], length 52
+23:45:43.299618 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 2847159675 ecr 972727608,nop,nop,sack 1 {1586:1638}], length 0
+23:45:43.299673 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:43.347451 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 2847159723 ecr 972727608], length 52
+23:45:43.347510 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:43.724557 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 972728120 ecr 2847156187], length 52
+23:45:43.811693 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 2847160187 ecr 972728120,nop,nop,sack 1 {1586:1638}], length 0
+23:45:43.811745 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:43.955418 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 2847160331 ecr 972728120], length 52
+23:45:43.955474 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:44.716545 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 972729112 ecr 2847156187], length 52
+23:45:44.803680 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 2847161179 ecr 972729112,nop,nop,sack 1 {1586:1638}], length 0
+23:45:45.139334 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 2847161515 ecr 972729112], length 52
+23:45:45.139391 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:46.668544 IP comp3134-Winter2023.ssh > mail.abababc.xyz.49690: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 972731064 ecr 2847156187], length 52
+23:45:46.755622 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 2847163131 ecr 972731064,nop,nop,sack 1 {1586:1638}], length 0
+23:45:46.755680 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:47.317828 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 1269010196 ecr 179563780], length 52
+23:45:47.317885 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+23:45:47.500570 IP comp3134-Winter2023.ssh > 23.166.48.54.52634: Flags [P.], seq 1586:1638, ack 1199, win 502, options [nop,nop,TS val 179577092 ecr 1268980617], length 52
+23:45:47.502765 IP 23.166.48.54.52634 > comp3134-Winter2023.ssh: Flags [.], ack 1638, win 501, options [nop,nop,TS val 1269010382 ecr 179577092,nop,nop,sack 1 {1586:1638}], length 0
+23:45:47.502807 IP comp3134-Winter2023 > 23.166.48.54: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 72
+23:45:47.571284 IP mail.abababc.xyz.49690 > comp3134-Winter2023.ssh: Flags [FP.], seq 1199:1251, ack 1638, win 501, options [nop,nop,TS val 2847163947 ecr 972731064], length 52
+23:45:47.571344 IP comp3134-Winter2023 > mail.abababc.xyz: ICMP comp3134-Winter2023 tcp port ssh unreachable, length 112
+tcpdump: pcap_loop: truncated dump file; tried to read 118 captured bytes, only got 51

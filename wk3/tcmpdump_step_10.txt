@@ -1,0 +1,36 @@
+23:49:02.247240 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 431696:431860, ack 217, win 64032, length 164
+23:49:02.247296 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 431860:432024, ack 217, win 64032, length 164
+23:49:02.247346 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432024:432188, ack 217, win 64032, length 164
+23:49:02.247394 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432188:432352, ack 217, win 64032, length 164
+23:49:02.247445 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432352:432516, ack 217, win 64032, length 164
+23:49:02.247493 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432516:432680, ack 217, win 64032, length 164
+23:49:02.247551 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432680:432844, ack 217, win 64032, length 164
+23:49:02.247651 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 432844:433008, ack 217, win 64032, length 164
+23:49:02.247717 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433008:433172, ack 217, win 64032, length 164
+23:49:02.247772 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433172:433336, ack 217, win 64032, length 164
+23:49:02.247823 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433336:433500, ack 217, win 64032, length 164
+23:49:02.247871 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433500:433664, ack 217, win 64032, length 164
+23:49:02.247986 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433664:433828, ack 217, win 64032, length 164
+23:49:02.248066 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433828:433992, ack 217, win 64032, length 164
+23:49:02.248180 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 433992:434156, ack 217, win 64032, length 164
+23:49:02.248309 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434156:434320, ack 217, win 64032, length 164
+23:49:02.248406 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434320:434484, ack 217, win 64032, length 164
+23:49:02.248488 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434484:434648, ack 217, win 64032, length 164
+23:49:02.248540 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434648:434812, ack 217, win 64032, length 164
+23:49:02.248588 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434812:434976, ack 217, win 64032, length 164
+23:49:02.248668 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 434976:435140, ack 217, win 64032, length 164
+23:49:02.248729 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435140:435304, ack 217, win 64032, length 164
+23:49:02.248792 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435304:435468, ack 217, win 64032, length 164
+23:49:02.248854 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435468:435632, ack 217, win 64032, length 164
+23:49:02.248921 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435632:435796, ack 217, win 64032, length 164
+23:49:02.248983 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435796:435960, ack 217, win 64032, length 164
+23:49:02.249039 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 435960:436124, ack 217, win 64032, length 164
+23:49:02.249093 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 436124:436288, ack 217, win 64032, length 164
+23:49:02.249159 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 436288:436452, ack 217, win 64032, length 164
+23:49:02.249219 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 436452:436616, ack 217, win 64032, length 164
+23:49:02.249274 IP comp3134-Winter2023.ssh > 205.189.187.4.50205: Flags [P.], seq 436616:436780, ack 217, win 64032, length 164
+23:49:02.256922 IP 205.189.187.4.50205 > comp3134-Winter2023.ssh: Flags [P.], seq 217:253, ack 406632, win 63912, length 36
+^C
+2685 packets captured
+2686 packets received by filter
+0 packets dropped by kernel
