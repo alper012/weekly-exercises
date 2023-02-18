@@ -1,0 +1,10 @@
+Pinging 134.122.36.42 with 32 bytes of data:
+Reply from 134.122.36.42: bytes=32 time=6ms TTL=58
+Reply from 134.122.36.42: bytes=32 time=4ms TTL=58
+Reply from 134.122.36.42: bytes=32 time=6ms TTL=58
+Reply from 134.122.36.42: bytes=32 time=5ms TTL=58
+
+Ping statistics for 134.122.36.42:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 6ms, Average = 5ms
