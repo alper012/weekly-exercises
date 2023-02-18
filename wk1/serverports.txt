@@ -1,0 +1,16 @@
+1) A server port is a communication endpoint that is used to identify a specific process or service on a networked device, such as a computer or a server. It is a number that is used to establish a connection between two devices over a network using the Internet Protocol (IP).
+2)A server port range refers to the range of port numbers that are available for a particular service to use. Ports are used by network protocols to identify specific services running on a computer or network device. Different services use different ports, and the range of available ports is limited by the number of bits used to represent the port number in the transport layer protocol.
+3) The server port range is typically represented using two 16-bit numbers, which together represent a total of 32 bits.
+4)
+
+Port 80: HTTP (HyperText Transfer Protocol)
+Port 443: HTTPS (HTTP Secure)
+Port 25: SMTP (Simple Mail Transfer Protocol)
+Port 143: IMAP (Internet Message Access Protocol)
+Port 110: POP3 (Post Office Protocol version 3)
+Port 53: DNS (Domain Name System)
+Port 22: SSH (Secure Shell)
+Port 21: FTP (File Transfer Protocol)
+Port 3306: MySQL Database
+Port 3389: Remote Desktop Protocol (RDP)
+
