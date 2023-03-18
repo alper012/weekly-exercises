@@ -1,0 +1,2 @@
+systemctl restart sshd
+ssh root@137.184.170.47 -p 2222
