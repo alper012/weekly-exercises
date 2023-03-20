@@ -1,0 +1,69 @@
+1) Amazon.ca
+IP:  52.94.225.242
+
+Geolocation data from IP2Location (Product: DB6, 2023-3-1)
+ DOMAIN NAME: amazon.ca
+ COUNTRY: United States 
+ REGION: Virginia
+ CITY: Ashburn
+ ISP: Amazon Technologies Inc.
+ ORGANIZATION: Not available
+ LATITUDE: 39.0395
+ LONGITUDE: -77.4918
+
+
+2)Google.com
+
+IP: 142.251.46.238
+
+Geolocation data from IP2Location (Product: DB6, 2023-3-1)
+ DOMAIN NAME: google.com
+ COUNTRY: United States 
+ REGION: California
+ CITY: Mountain View
+ ISP: Google LLC
+ ORGANIZATION: Not available
+ LATITUDE: 37.4060
+ LONGITUDE: -122.0785
+
+3)Netflix.com
+
+IP:3.211.157.115
+
+Geolocation data from IP2Location (Product: DB6, 2023-3-1)
+ DOMAIN NAME: netflix.com
+ COUNTRY: United States 
+ REGION: Oregon
+ CITY: Portland
+ ISP: Amazon.com Inc.
+ ORGANIZATION: Not available
+ LATITUDE: 45.5234
+ LONGITUDE: -122.6762
+
+4)Youtube.com
+
+IP: 142.250.189.206
+
+Geolocation data from IP2Location (Product: DB6, 2023-3-1)
+ DOMAIN NAME: youtube.com
+ COUNTRY: United States 
+ REGION: California
+ CITY: Mountain View
+ ISP: Google LLC
+ ORGANIZATION: Not available
+ LATITUDE: 37.4060
+ LONGITUDE: -122.0785
+
+5) Instagram.com
+
+IP: 157.240.22.174
+
+Geolocation data from IP2Location (Product: DB6, 2023-3-1)
+ DOMAIN NAME: instagram.com
+ COUNTRY: United States 
+ REGION: California
+ CITY: San Jose
+ ISP: Facebook Inc.
+ ORGANIZATION: Not available
+ LATITUDE: 37.3394
+ LONGITUDE: -121.8950
